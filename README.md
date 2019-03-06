@@ -1,1 +1,1 @@
-# ES6 app to search recipe 
+# JavaScript ES6 app to search recipe 
